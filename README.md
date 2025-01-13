@@ -105,6 +105,25 @@
             </ul>
         </div>
     </section>
+    <section>
+    <div class="content-container">
+        <h2>6. Prompt Engineering in StyleSavvy AI</h2>
+        <p><strong>Prompt Engineering</strong> plays a critical role in guiding AI models to generate accurate and context-specific fashion recommendations. In StyleSavvy AI, thoughtful prompt design ensures that users receive tailored advice that matches their style, body type, and preferences.</p>
+
+  <h3>How Prompt Engineering Was Applied:</h3>
+        <ul>
+            <li><strong>Instruction-Based Prompting:</strong> Clear instructions were crafted for the model to understand and generate outfit suggestions, including specifying body type, occasion, and temperature preferences.</li>
+            <li><strong>Contextual Information:</strong> User inputs such as style preference, color choices, and materials provided valuable context for generating more accurate recommendations.</li>
+            <li><strong>Dynamic Prompt Crafting:</strong> Prompts adapted to reflect changes in user preferences or feedback, allowing for more refined and personalized suggestions.</li>
+            <li><strong>Follow-Up Adjustments:</strong> Users had the option to refine recommendations by providing additional feedback, and the AI model incorporated these adjustments seamlessly.</li>
+        </ul>
+    <h3>Example Prompts Used:</h3>
+        <p><em>Initial Prompt:</em> "Suggest an outfit for a user with a slim body type who prefers modern casual style for a weekend outing in a hot climate."</p>
+        <p><em>Adjustment Prompt:</em> "Please adjust the recommendation to incorporate the following preferences: brighter color schemes and lightweight materials suitable for cold weather."</p>
+    <p>By leveraging prompt engineering, StyleSavvy AI delivers more accurate and user-relevant fashion recommendations, enhancing the user experience and system performance.</p>
+    </div>
+</section>
+
 <section>
     <div class="content-container">
         <h2>6. Citations</h2>
