@@ -105,6 +105,18 @@
             </ul>
         </div>
     </section>
-
+<section>
+    <div class="content-container">
+        <h2>6. Citations</h2>
+        <h3>References</h3>
+        <ul>
+            <li><strong>Huang, X., et al. (2021)</strong> – <em>Personalized Fashion Recommendation via Body Type Modeling and Visual Representation Learning</em> – This paper emphasizes the importance of personalized fashion by integrating visual recognition of body types and preferences.</li>
+            <li><strong>Gao, Y., et al. (2020)</strong> – <em>AI-Powered Personalized Fashion Recommender Systems</em> – Discusses how AI is revolutionizing the fashion industry, making personalized recommendations based on user data.</li>
+            <li><strong>Srinivasan, V., et al. (2018)</strong> – <em>Context-aware Recommender Systems in Fashion</em> – Highlights the significance of environmental factors like weather and occasion in fashion recommendations.</li>
+            <li><strong>Choi, H., & Lee, Y. (2022)</strong> – <em>Sustainability in Fashion Industry: A Study on Consumer Behavior</em> – Explores consumer preferences for sustainable fashion and its impact on recommendation systems.</li>
+            <li><strong>Smith, A. (2019)</strong> – <em>Recommender Systems in the E-Commerce Industry: A Review</em> – Provides an overview of the use of recommendation algorithms in e-commerce platforms and their application to fashion.</li>
+        </ul>
+    </div>
+</section>
 </body>
 </html>
