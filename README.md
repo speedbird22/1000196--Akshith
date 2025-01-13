@@ -125,6 +125,6 @@
     </div>
 </section>
 
-<h1> Heres the link to acces the ipynb file - https://colab.research.google.com/drive/1OqfDWflLaWAEW1kByUz5cBkY04-4aehM?usp=sharing
+<h1> Heres the link to acces the ipynb file </h1> - https://colab.research.google.com/drive/1OqfDWflLaWAEW1kByUz5cBkY04-4aehM?usp=sharing
 </body>
 </html>
