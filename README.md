@@ -4,49 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>StyleSavvy AI: A Well-Researched Fashion Recommender</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #444;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-        }
-        section {
-            padding: 20px;
-            margin: 20px;
-            background-color: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul {
-            margin: 20px;
-            list-style-type: none;
-            padding-left: 20px;
-        }
-        ul li {
-            margin-bottom: 10px;
-        }
-        .content-container {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
-        .highlight {
-            font-weight: bold;
-        }
-    </style>
-</head>
+   
 <body>
   <!-- Profile Section -->
     <h1 align="center">Hi 👋, I'm Akshith Reddy</h1>
