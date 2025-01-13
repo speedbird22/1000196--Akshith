@@ -41,6 +41,7 @@
     <!-- Existing Content -->
    <section>
         <div class="content-container">
+       <h1> StyleSavvy AI </h1>
             <h2>1. Problem Definition</h2>
             <h3>Fashion Recommendation Systems</h3>
             <p>Fashion recommendation systems have been evolving over the years, with AI increasingly playing a role in personalizing user experiences. A critical problem remains how to provide truly personalized fashion suggestions that are not only based on current trends but also take into account individual preferences, body types, environmental factors, and occasions. Most existing systems fail to integrate <span class="highlight">dynamic and holistic data</span> that capture all these elements, making recommendations feel detached from the user’s lifestyle.</p>
