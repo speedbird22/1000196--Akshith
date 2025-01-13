@@ -115,6 +115,12 @@
             <li><strong>Srinivasan, V., et al. (2018)</strong> – <em>Context-aware Recommender Systems in Fashion</em> – Highlights the significance of environmental factors like weather and occasion in fashion recommendations.</li>
             <li><strong>Choi, H., & Lee, Y. (2022)</strong> – <em>Sustainability in Fashion Industry: A Study on Consumer Behavior</em> – Explores consumer preferences for sustainable fashion and its impact on recommendation systems.</li>
             <li><strong>Smith, A. (2019)</strong> – <em>Recommender Systems in the E-Commerce Industry: A Review</em> – Provides an overview of the use of recommendation algorithms in e-commerce platforms and their application to fashion.</li>
+            <H3> Some links that have helped me in the process </H3>
+            <li>https://chatgpt.com/</li>
+            <li>https://www.researchgate.net/publication/381448625_Generative_AI-based_Style_Recommendation_Using_Fashion_ItemDetection_and_Classification</li>
+            <li>https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10565860</li>
+            <li>https://arxiv.org/html/2402.17279v3</li>
+            <li>https://www.datacamp.com/tutorial/gemini-pro-api-tutorial</li>
         </ul>
     </div>
 </section>
